@@ -21,7 +21,7 @@ Welcome to my portfolio! This project showcases my skills and experience in web 
 1. **Clone the Repository**
 
    ```bash
-   https://github.com/gbgaurav007/portfolio.git
+   https://github.com/gbgaurav007/Gaurav-Bansal-Portfolio.git
    cd portfolio
    ```
 
@@ -54,4 +54,4 @@ portfolio/
 
 ## Visuals
 
-My Portfolio can be accessed through the following url: https://portfolio-nine-sepia-75.vercel.app
+My Portfolio can be accessed through the following url: https://gaurav-bansal-portfolio.vercel.app
