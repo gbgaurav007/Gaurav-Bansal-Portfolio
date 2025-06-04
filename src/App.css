@@ -1,0 +1,6 @@
+.App{
+  @apply font-Signika;
+  letter-spacing: 0.15em;
+  display: flex;
+  flex-direction: column;
+}
