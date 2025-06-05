@@ -57,7 +57,7 @@ function Contact() {
               <FontAwesomeIcon icon={faEnvelope} className="text-2xl" />
               <div>
                 <h3 className="text-xl font-bold">Gmail</h3>
-                <p className="text-gray-700">gbgauravbansal007@gmail.com</p>
+                <p className="text-gray-700 break-words text-sm sm:text-base max-w-[220px] sm:max-w-none">gbgauravbansal007@gmail.com</p>
               </div>
             </div>
           </a>
@@ -72,7 +72,7 @@ function Contact() {
               <FontAwesomeIcon icon={faLinkedin} className="text-2xl" />
               <div>
                 <h3 className="text-xl font-bold">LinkedIn</h3>
-                <p className="text-gray-700">linkedin.com/in/gauravbansal007</p>
+                <p className="text-gray-700 break-words text-sm sm:text-base max-w-[220px] sm:max-w-none">linkedin.com/in/gauravbansal007</p>
               </div>
             </div>
           </a>
@@ -88,7 +88,7 @@ function Contact() {
               <FontAwesomeIcon icon={faGithub} className="text-2xl" />
               <div>
                 <h3 className="text-xl font-bold">GitHub</h3>
-                <p className="text-gray-700">github.com/gbgaurav007</p>
+                <p className="text-gray-700 break-words text-sm sm:text-base max-w-[220px] sm:max-w-none">github.com/gbgaurav007</p>
               </div>
             </div>
           </a>
