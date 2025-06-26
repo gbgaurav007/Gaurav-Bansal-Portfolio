@@ -1,4 +1,15 @@
 const experiences = [
+    {
+    role: 'Software Engineer Intern',
+    company: 'Swinip',
+    duration: 'October - December 2024',
+    location: 'Remote',
+    website: 'https://www.swinip.com',
+    description:
+      'Contributed to the development and maintenance of Acta Healthcare Staffing platform using JavaScript, React.js, Node.js. Implemented new features and wrote a clean, well-documented, and efficient backend and frontend code. Participated in code reviews, performed unit testing, and resolved technical issues in collaboration with senior engineers.',
+    tech: ['React.js', 'Node.js', 'REST APIs', 'JavaScript', 'Database'],
+    logo: 'assets/swinip.jpg',
+  },
   {
     role: 'iOS App Developer Intern',
     company: 'Infosys',
